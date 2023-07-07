@@ -1,3 +1,4 @@
+// <!-- ---- Bismillah ---- -->
 const bod = document.querySelector("body");
 const navbar = document.getElementById("navbar");
 const wrapper1 = document.getElementById("wrapper");
